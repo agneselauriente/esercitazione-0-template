@@ -25,9 +25,9 @@ Esito dopo la modifica e spiegazione della correzione: abbiamo aggiunto la riga 
 
 ## Step 1 — Git
 
-Quali file ho incluso nel commit e perché: 
+Quali file ho incluso nel commit e perché: abbiamo incluso hello.c perchè abbiamo modificato il codice e osservazioni.md perchè abbiamo risposto alle domande dello step 1
 
-Come ho verificato che la versione provata sia presente su GitHub:
+Come ho verificato che la versione provata sia presente su GitHub: ho ricaricato la pagina del repository e ho controllato che i file cotenessero le mie ultime modifiche e che il commit fosse presente nella cronologia
 
 Che cosa ho osservato prima e dopo `git pull`, e perché non serve un nuovo clone:
 
