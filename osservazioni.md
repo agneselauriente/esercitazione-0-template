@@ -29,7 +29,7 @@ Quali file ho incluso nel commit e perché: abbiamo incluso hello.c perchè abbi
 
 Come ho verificato che la versione provata sia presente su GitHub: ho ricaricato la pagina del repository e ho controllato che i file cotenessero le mie ultime modifiche e che il commit fosse presente nella cronologia
 
-Che cosa ho osservato prima e dopo `git pull`, e perché non serve un nuovo clone:
+Che cosa ho osservato prima e dopo `git pull`, e perché non serve un nuovo clone: prima del comando la modifica aggiunta dal browser non era presente, dopo il file si è aggiornato. Non serve un nuovo clone perchè la cartella è già collegata al repository remoto
 
 ## Step 2 — Eco: prima prova
 
