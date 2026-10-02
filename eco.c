@@ -9,6 +9,9 @@ int main(int argc, char *argv[])
     }
 
     char *testo = argv[1];
+    char *intero = argv[2];
+    char *reale = argv[3];
+    
 
     /* TODO: converti gli argomenti in tipi appropriati. Usa atoi o atof
     * prendi ispirazione da:
@@ -17,6 +20,8 @@ int main(int argc, char *argv[])
 
     /* Evita un warning finche' la variabiletesto non viene usato nella stampa. */
     (void)testo;
+    
+    printf("%s %i %g\n", testo, atoi(intero), atof(reale));
 
     /* TODO: scrivi una sola chiamata a printf che stampi testo, intero e reale,
      * separati da uno spazio e seguiti da un carattere di nuova riga. */
